@@ -30,42 +30,41 @@
 ## 🚀 Current Focus
 
 - 🤖 Building AI Projects (Plant Disease Detection, Resume Analyzer)
-- 📊 Learning Advanced Machine Learning & Deep Learning
+- 📊 Currently learning Typescript,Nextjs,Cloud(AWS)
 - 💻 Practicing DSA in JAVA
-- 🌐 Developing Full Stack Applications
+- 🌐 Developing Full Stack Applications 
 - 🏆 Participating in Hackathons (Team: Glitch)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🌿 AI-Based Plant Disease Detection
-- Detect plant diseases from images using Deep Learning
-- Built with: Python, TensorFlow, OpenCV, Streamlit
-
 ### 📄 AI Resume Analyzer
 - Analyzes resumes using NLP
 - Suggests improvements & job matching
 - Built with: Python, NLP, ML
 
-### 📸 Instagram Clone
-- Full stack social media app
-- React + Node.js + MongoDB
+### 🌿 AI-Based Plant Disease Detection
+- Detect plant diseases from images using Deep Learning
+- Built with: Python, TensorFlow, OpenCV, Streamlit
+
+### 🤖 ChatGo
+- Realtime Chat Application
+- Build with: Reactjs, Nodejs, Socket.io, MongoDB
 
 ---
 
 ## 🏅 Achievements
 
 - 🏆 Hackathon Participant (Team Glitch)
-- 🤖 AI/ML Specialization Student
 - 💡 Building Real-world AI Applications
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](asif-hussain-tahiri-77736b2b5)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/asif922)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](pankaj-kumar-sah-977538380)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/pankaj9088)
 
 ---
 
