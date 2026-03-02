@@ -1,7 +1,7 @@
 # Hi, I'm Pankaj Kumar Sah 👋
 
 🎓 B.Tech ECE @ Academy of Technology  
-📍 North 24 Parganas, India  
+📍 North 24 Parganas, India 🇮🇳
 🚀 Full Stack Developer | Hackathon Enthusiast
 
 ---
