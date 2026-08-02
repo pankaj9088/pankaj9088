@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#f1f5f9" />
+    </linearGradient>
+
+    <!-- Glowing Orbs Gradients -->
+    <radialGradient id="orb-blue-light" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="orb-purple-light" cx="80%" cy="70%" r="60%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="border-grad-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="50%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#db2777" />
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="text-grad-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1d4ed8" />
+      <stop offset="50%" stop-color="#6d28d9" />
+      <stop offset="100%" stop-color="#be185d" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 42px;
+      fill: url(#text-grad-light);
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      font-size: 20px;
+      fill: #475569;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #1e293b;
+    }
+    .grid-line {
+      stroke: #cbd5e1;
+      stroke-opacity: 0.3;
+      stroke-width: 1;
+    }
+    .pulse-dot {
+      animation: pulse 2s infinite ease-in-out;
+    }
+    .cursor {
+      animation: blink 1s infinite;
+      fill: #7c3aed;
+    }
+    @keyframes pulse {
+      0% { opacity: 0.5; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.05); }
+      100% { opacity: 0.5; transform: scale(1); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="320" rx="16" fill="url(#bg-grad-light)" />
+
+  <!-- Background Orbs -->
+  <rect width="1200" height="320" rx="16" fill="url(#orb-blue-light)" />
+  <rect width="1200" height="320" rx="16" fill="url(#orb-purple-light)" />
+
+  <!-- Grid Lines Overlay -->
+  <path d="M 0,80 L 1200,80 M 0,160 L 1200,160 M 0,240 L 1200,240" class="grid-line" />
+  <path d="M 200,0 L 200,320 M 400,0 L 400,320 M 600,0 L 600,320 M 800,0 L 800,320 M 1000,0 L 1000,320" class="grid-line" />
+
+  <!-- Outer Border -->
+  <rect x="1.5" y="1.5" width="1197" height="317" rx="14.5" fill="none" stroke="url(#border-grad-light)" stroke-width="2" stroke-opacity="0.8" />
+
+  <!-- Content Container -->
+  <!-- Top Greeting & Online Status -->
+  <g transform="translate(60, 65)">
+    <circle cx="10" cy="10" r="6" fill="#059669" class="pulse-dot" />
+    <circle cx="10" cy="10" r="10" fill="#059669" opacity="0.25" class="pulse-dot" />
+    <text x="30" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto" font-size="15" font-weight="600" fill="#047857" letter-spacing="1.5">AVAILABLE FOR OPPORTUNITIES</text>
+  </g>
+
+  <!-- Main Animated Heading -->
+  <g transform="translate(60, 130)">
+    <text class="title">Hi, I'm a Full Stack Engineer &amp; Creator <tspan class="cursor">|</tspan></text>
+  </g>
+
+  <!-- Subtitle -->
+  <g transform="translate(60, 175)">
+    <text class="subtitle">Building scalable web apps, high-performance systems &amp; elegant open-source software 🚀</text>
+  </g>
+
+  <!-- Badges / Tags -->
+  <g transform="translate(60, 220)">
+    <!-- Badge 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="170" height="38" rx="19" fill="#ffffff" stroke="#2563eb" stroke-opacity="0.5" stroke-width="1" />
+      <text x="20" y="24" class="badge-text">⚡ Web Development</text>
+    </g>
+    <!-- Badge 2 -->
+    <g transform="translate(185, 0)">
+      <rect width="180" height="38" rx="19" fill="#ffffff" stroke="#7c3aed" stroke-opacity="0.5" stroke-width="1" />
+      <text x="20" y="24" class="badge-text">🤖 AI &amp; Cloud Systems</text>
+    </g>
+    <!-- Badge 3 -->
+    <g transform="translate(380, 0)">
+      <rect width="190" height="38" rx="19" fill="#ffffff" stroke="#db2777" stroke-opacity="0.5" stroke-width="1" />
+      <text x="20" y="24" class="badge-text">🌟 Open Source Crafts</text>
+    </g>
+  </g>
+
+  <!-- Decorative Right-side Code Icon Graphics -->
+  <g transform="translate(980, 100)" opacity="0.9">
+    <rect x="-10" y="-10" width="160" height="130" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+    <circle cx="15" cy="12" r="5" fill="#ef4444" />
+    <circle cx="32" cy="12" r="5" fill="#f59e0b" />
+    <circle cx="49" cy="12" r="5" fill="#10b981" />
+    <path d="M 0,30 L 140,30" stroke="#f1f5f9" stroke-width="1.5" />
+    <text x="15" y="55" font-family="Courier, monospace" font-size="13" fill="#2563eb">&lt;code&gt;</text>
+    <text x="30" y="77" font-family="Courier, monospace" font-size="13" fill="#7c3aed">build(awesome);</text>
+    <text x="15" y="99" font-family="Courier, monospace" font-size="13" fill="#2563eb">&lt;/code&gt;</text>
+  </g>
+</svg>

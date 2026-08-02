@@ -2,8 +2,8 @@
 <!--            GITHUB HERO BANNER              -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark.svg?v=3#gh-dark-mode-only" alt="Pankaj Kumar Sah Hero Banner Dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-light.svg?v=3#gh-light-mode-only" alt="Pankaj Kumar Sah Hero Banner Light" width="100%" />
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark-v2.svg#gh-dark-mode-only" alt="Pankaj Kumar Sah Hero Banner Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-light-v2.svg#gh-light-mode-only" alt="Pankaj Kumar Sah Hero Banner Light" width="100%" />
 </div>
 
 <br />
@@ -105,8 +105,8 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-dark.svg?v=3#gh-dark-mode-only" alt="Featured Projects Showcase Dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-light.svg?v=3#gh-light-mode-only" alt="Featured Projects Showcase Light" width="100%" />
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-dark-v2.svg#gh-dark-mode-only" alt="Featured Projects Showcase Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-light-v2.svg#gh-light-mode-only" alt="Featured Projects Showcase Light" width="100%" />
 </div>
 
 <br />
