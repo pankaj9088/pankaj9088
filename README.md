@@ -2,8 +2,11 @@
 <!--            GITHUB HERO BANNER              -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark-v2.svg#gh-dark-mode-only" alt="Pankaj Kumar Sah Hero Banner Dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-light-v2.svg#gh-light-mode-only" alt="Pankaj Kumar Sah Hero Banner Light" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-light-v2.svg">
+    <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark-v2.svg" alt="Pankaj Kumar Sah Hero Banner" width="100%" />
+  </picture>
 </div>
 
 <br />
@@ -105,8 +108,11 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-dark-v2.svg#gh-dark-mode-only" alt="Featured Projects Showcase Dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-light-v2.svg#gh-light-mode-only" alt="Featured Projects Showcase Light" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-dark-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-light-v2.svg">
+    <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-dark-v2.svg" alt="Featured Projects Showcase" width="100%" />
+  </picture>
 </div>
 
 <br />
@@ -131,18 +137,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats Dark" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" alt="GitHub Stats Light" height="175" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
+  </picture>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages Dark" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages Light" height="175" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pankaj9088&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Streak Dark" width="95%" />
-  <img src="https://streak-stats.demolab.com?user=pankaj9088&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak Light" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pankaj9088&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pankaj9088&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=pankaj9088&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+  </picture>
 </div>
 
 <br />
@@ -155,8 +170,11 @@
 ## 🐍 Contribution Graph Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+  </picture>
 </div>
 
 <br />
