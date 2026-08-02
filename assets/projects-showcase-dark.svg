@@ -24,7 +24,7 @@
     .card-title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 18px; fill: #ffffff; }
     .card-desc { font-family: system-ui, -apple-system, sans-serif; font-weight: 400; font-size: 13px; fill: #cbd5e1; }
     .tag-text { font-family: monospace; font-size: 11px; fill: #38bdf8; }
-    .star-count { font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 12px; fill: #f59e0b; }
+    .badge-label { font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 12px; fill: #38bdf8; }
   </style>
 
   <!-- Container -->
@@ -32,71 +32,71 @@
 
   <!-- Section Header -->
   <g transform="translate(50, 45)">
-    <text class="title-text">⚡ Featured Open-Source Projects</text>
-    <text y="25" class="subtitle-text">Selected high-impact applications, libraries, and frameworks</text>
+    <text class="title-text">⚡ Featured Projects</text>
+    <text y="25" class="subtitle-text">Pankaj's highlighted web applications and open-source repositories</text>
   </g>
 
   <!-- Project Cards Grid -->
-  <!-- Card 1 -->
+  <!-- Card 1: ChatGo -->
   <g transform="translate(50, 110)">
     <rect width="340" height="260" rx="12" fill="#131c2e" stroke="url(#card-border-1)" stroke-width="1.5" />
-    <!-- Top bar -->
+    <!-- Icon Container -->
     <rect x="20" y="20" width="40" height="40" rx="8" fill="#1e3a8a" />
-    <text x="33" y="45" font-family="sans-serif" font-size="20" fill="#60a5fa">🤖</text>
-    <text x="280" y="40" class="star-count">★ 1.2k</text>
+    <text x="31" y="46" font-family="sans-serif" font-size="20" fill="#60a5fa">💬</text>
+    <text x="270" y="42" class="badge-label">Real-Time</text>
     
-    <text x="20" y="90" class="card-title">AI Assistant Hub</text>
-    <text x="20" y="115" class="card-desc">An intelligent autonomous AI workspace agent with multi-modal capabilities and tool execution.</text>
+    <text x="20" y="90" class="card-title">ChatGo</text>
+    <text x="20" y="115" class="card-desc">Real-time chat application featuring instant messaging, live channels, and active user presence.</text>
 
     <g transform="translate(20, 185)">
-      <rect width="80" height="24" rx="12" fill="#0f2942" />
-      <text x="12" y="16" class="tag-text">TypeScript</text>
-      <rect x="90" width="70" height="24" rx="12" fill="#0f2942" />
-      <text x="102" y="16" class="tag-text">Next.js</text>
-      <rect x="170" width="70" height="24" rx="12" fill="#0f2942" />
-      <text x="182" y="16" class="tag-text">OpenAI</text>
+      <rect width="60" height="24" rx="12" fill="#0f2942" />
+      <text x="12" y="16" class="tag-text">React</text>
+      <rect x="70" width="70" height="24" rx="12" fill="#0f2942" />
+      <text x="80" y="16" class="tag-text">Node.js</text>
+      <rect x="150" width="80" height="24" rx="12" fill="#0f2942" />
+      <text x="160" y="16" class="tag-text">Socket.io</text>
     </g>
   </g>
 
-  <!-- Card 2 -->
+  <!-- Card 2: Chess -->
   <g transform="translate(430, 110)">
     <rect width="340" height="260" rx="12" fill="#18152e" stroke="url(#card-border-2)" stroke-width="1.5" />
-    <!-- Top bar -->
+    <!-- Icon Container -->
     <rect x="20" y="20" width="40" height="40" rx="8" fill="#311b92" />
-    <text x="33" y="45" font-family="sans-serif" font-size="20" fill="#a78bfa">🚀</text>
-    <text x="280" y="40" class="star-count">★ 850</text>
+    <text x="31" y="46" font-family="sans-serif" font-size="20" fill="#a78bfa">♟️</text>
+    <text x="290" y="42" class="badge-label" fill="#c084fc">Game</text>
     
-    <text x="20" y="90" class="card-title">Cloud Microservices</text>
-    <text x="20" y="115" class="card-desc">Ultra-fast event-driven architecture template built for micro-latency streaming &amp; scalable web services.</text>
+    <text x="20" y="90" class="card-title">Chess Engine</text>
+    <text x="20" y="115" class="card-desc">Interactive web-based chess application supporting move tracking, board highlights, and game logic.</text>
 
     <g transform="translate(20, 185)">
-      <rect width="60" height="24" rx="12" fill="#241442" />
-      <text x="14" y="16" class="tag-text" fill="#c084fc">Go</text>
-      <rect x="70" width="70" height="24" rx="12" fill="#241442" />
-      <text x="80" y="16" class="tag-text" fill="#c084fc">Docker</text>
-      <rect x="150" width="70" height="24" rx="12" fill="#241442" />
-      <text x="162" y="16" class="tag-text" fill="#c084fc">Redis</text>
+      <rect width="85" height="24" rx="12" fill="#241442" />
+      <text x="11" y="16" class="tag-text" fill="#c084fc">JavaScript</text>
+      <rect x="95" width="60" height="24" rx="12" fill="#241442" />
+      <text x="106" y="16" class="tag-text" fill="#c084fc">HTML5</text>
+      <rect x="165" width="55" height="24" rx="12" fill="#241442" />
+      <text x="176" y="16" class="tag-text" fill="#c084fc">CSS3</text>
     </g>
   </g>
 
-  <!-- Card 3 -->
+  <!-- Card 3: LifeOS -->
   <g transform="translate(810, 110)">
     <rect width="340" height="260" rx="12" fill="#102322" stroke="url(#card-border-3)" stroke-width="1.5" />
-    <!-- Top bar -->
+    <!-- Icon Container -->
     <rect x="20" y="20" width="40" height="40" rx="8" fill="#064e3b" />
-    <text x="33" y="45" font-family="sans-serif" font-size="20" fill="#34d399">🎨</text>
-    <text x="280" y="40" class="star-count">★ 2.4k</text>
+    <text x="31" y="46" font-family="sans-serif" font-size="20" fill="#34d399">⚡</text>
+    <text x="250" y="42" class="badge-label" fill="#34d399">Productivity</text>
     
-    <text x="20" y="90" class="card-title">Modern Design System</text>
-    <text x="20" y="115" class="card-desc">Accessible, accessible React &amp; Tailwind CSS component library with full light/dark mode support.</text>
+    <text x="20" y="90" class="card-title">LifeOS Dashboard</text>
+    <text x="20" y="115" class="card-desc">Personal productivity dashboard for managing daily tasks, goal tracking, habits, and workflow stats.</text>
 
     <g transform="translate(20, 185)">
-      <rect width="60" height="24" rx="12" fill="#09382e" />
-      <text x="12" y="16" class="tag-text" fill="#4ade80">React</text>
-      <rect x="70" width="80" height="24" rx="12" fill="#09382e" />
-      <text x="80" y="16" class="tag-text" fill="#4ade80">Tailwind</text>
-      <rect x="160" width="80" height="24" rx="12" fill="#09382e" />
-      <text x="170" y="16" class="tag-text" fill="#4ade80">Storybook</text>
+      <rect width="80" height="24" rx="12" fill="#09382e" />
+      <text x="11" y="16" class="tag-text" fill="#4ade80">TypeScript</text>
+      <rect x="90" width="60" height="24" rx="12" fill="#09382e" />
+      <text x="102" y="16" class="tag-text" fill="#4ade80">React</text>
+      <rect x="160" width="70" height="24" rx="12" fill="#09382e" />
+      <text x="171" y="16" class="tag-text" fill="#4ade80">Tailwind</text>
     </g>
   </g>
 </svg>

@@ -46,9 +46,9 @@
 
 <br />
 
-- 🔭 **Currently working on:** Next-generation web applications & AI integrations
-- 🌱 **Learning & Exploring:** Rust, Distributed Systems & Advanced Agent Architectures
-- 💬 **Ask me about:** React, Next.js, Node.js, System Design, and UI/UX best practices
+- 🔭 **Currently working on:** Real-time web applications & productivity tools
+- 🌱 **Learning & Exploring:** Distributed Systems, Microservices & AI Architectures
+- 💬 **Ask me about:** React, Node.js, Socket.io, System Architecture, and UI/UX design
 - ⚡ **Fun fact:** I turn coffee ☕ into clean, maintainable code 💻
 
 <br />
@@ -115,9 +115,9 @@
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **🤖 AI Assistant Hub** | Intelligent autonomous agent workspace with multi-modal tools | `TypeScript` `Next.js` `OpenAI` | [🔗 View Repo](https://github.com/pankaj9088) |
-| **🚀 Cloud Microservices** | Ultra-fast event-driven streaming microservices template | `Go` `Docker` `Redis` | [🔗 View Repo](https://github.com/pankaj9088) |
-| **🎨 Modern Design System** | Accessible React component library with light/dark themes | `React` `Tailwind` `Storybook` | [🔗 View Repo](https://github.com/pankaj9088) |
+| **💬 ChatGo** | Real-time chat app featuring instant messaging & live channels | `React` `Node.js` `Socket.io` | [🔗 View Repo](https://github.com/pankaj9088/ChatGo---Real-Time-Chat-Application) |
+| **♟️ Chess** | Interactive full-featured web chess engine with move tracking | `JavaScript` `HTML5` `CSS3` | [🔗 View Repo](https://github.com/pankaj9088/-Chess) |
+| **⚡ LifeOS** | Personal productivity & life management dashboard | `TypeScript` `React` `Tailwind` | [🔗 View Repo](https://github.com/pankaj9088/LifeOs) |
 
 </div>
 
