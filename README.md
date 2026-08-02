@@ -3,9 +3,9 @@
 <!-- ========================================== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark-v2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-light-v2.svg">
-    <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark-v2.svg" alt="Pankaj Kumar Sah Hero Banner" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark-v3.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-light-v3.svg">
+    <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark-v3.svg" alt="Pankaj Kumar Sah Hero Banner" width="100%" />
   </picture>
 </div>
 
@@ -16,7 +16,7 @@
 <!-- ========================================== -->
 <div align="center">
   <a href="https://github.com/pankaj9088">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Building+Scalable+Cloud+Architectures;Open+Source+Craftsman+%26+Tech+Enthusiast;Turning+Ideas+Into+High-Performance+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=Software+Developer;Building+Scalable+Web+Applications;Open+Source+Craftsman+%26+Tech+Enthusiast;Turning+Ideas+Into+High-Performance+Code" alt="Typing SVG" />
   </a>
 </div>
 
