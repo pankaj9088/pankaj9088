@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <linearGradient id="proj-bg-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="card-border-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="card-border-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#6d28d9" />
+    </linearGradient>
+    <linearGradient id="card-border-3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title-text { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 24px; fill: #f8fafc; }
+    .subtitle-text { font-family: system-ui, -apple-system, sans-serif; font-weight: 400; font-size: 14px; fill: #94a3b8; }
+    .card-title { font-family: system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 18px; fill: #ffffff; }
+    .card-desc { font-family: system-ui, -apple-system, sans-serif; font-weight: 400; font-size: 13px; fill: #cbd5e1; }
+    .tag-text { font-family: monospace; font-size: 11px; fill: #38bdf8; }
+    .star-count { font-family: system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 12px; fill: #f59e0b; }
+  </style>
+
+  <!-- Container -->
+  <rect width="1200" height="420" rx="16" fill="url(#proj-bg-dark)" stroke="#1e293b" stroke-width="2" />
+
+  <!-- Section Header -->
+  <g transform="translate(50, 45)">
+    <text class="title-text">⚡ Featured Open-Source Projects</text>
+    <text y="25" class="subtitle-text">Selected high-impact applications, libraries, and frameworks</text>
+  </g>
+
+  <!-- Project Cards Grid -->
+  <!-- Card 1 -->
+  <g transform="translate(50, 110)">
+    <rect width="340" height="260" rx="12" fill="#131c2e" stroke="url(#card-border-1)" stroke-width="1.5" />
+    <!-- Top bar -->
+    <rect x="20" y="20" width="40" height="40" rx="8" fill="#1e3a8a" />
+    <text x="33" y="45" font-family="sans-serif" font-size="20" fill="#60a5fa">🤖</text>
+    <text x="280" y="40" class="star-count">★ 1.2k</text>
+    
+    <text x="20" y="90" class="card-title">AI Assistant Hub</text>
+    <text x="20" y="115" class="card-desc">An intelligent autonomous AI workspace agent with multi-modal capabilities and tool execution.</text>
+
+    <g transform="translate(20, 185)">
+      <rect width="80" height="24" rx="12" fill="#0f2942" />
+      <text x="12" y="16" class="tag-text">TypeScript</text>
+      <rect x="90" width="70" height="24" rx="12" fill="#0f2942" />
+      <text x="102" y="16" class="tag-text">Next.js</text>
+      <rect x="170" width="70" height="24" rx="12" fill="#0f2942" />
+      <text x="182" y="16" class="tag-text">OpenAI</text>
+    </g>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(430, 110)">
+    <rect width="340" height="260" rx="12" fill="#18152e" stroke="url(#card-border-2)" stroke-width="1.5" />
+    <!-- Top bar -->
+    <rect x="20" y="20" width="40" height="40" rx="8" fill="#311b92" />
+    <text x="33" y="45" font-family="sans-serif" font-size="20" fill="#a78bfa">🚀</text>
+    <text x="280" y="40" class="star-count">★ 850</text>
+    
+    <text x="20" y="90" class="card-title">Cloud Microservices</text>
+    <text x="20" y="115" class="card-desc">Ultra-fast event-driven architecture template built for micro-latency streaming &amp; scalable web services.</text>
+
+    <g transform="translate(20, 185)">
+      <rect width="60" height="24" rx="12" fill="#241442" />
+      <text x="14" y="16" class="tag-text" fill="#c084fc">Go</text>
+      <rect x="70" width="70" height="24" rx="12" fill="#241442" />
+      <text x="80" y="16" class="tag-text" fill="#c084fc">Docker</text>
+      <rect x="150" width="70" height="24" rx="12" fill="#241442" />
+      <text x="162" y="16" class="tag-text" fill="#c084fc">Redis</text>
+    </g>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(810, 110)">
+    <rect width="340" height="260" rx="12" fill="#102322" stroke="url(#card-border-3)" stroke-width="1.5" />
+    <!-- Top bar -->
+    <rect x="20" y="20" width="40" height="40" rx="8" fill="#064e3b" />
+    <text x="33" y="45" font-family="sans-serif" font-size="20" fill="#34d399">🎨</text>
+    <text x="280" y="40" class="star-count">★ 2.4k</text>
+    
+    <text x="20" y="90" class="card-title">Modern Design System</text>
+    <text x="20" y="115" class="card-desc">Accessible, accessible React &amp; Tailwind CSS component library with full light/dark mode support.</text>
+
+    <g transform="translate(20, 185)">
+      <rect width="60" height="24" rx="12" fill="#09382e" />
+      <text x="12" y="16" class="tag-text" fill="#4ade80">React</text>
+      <rect x="70" width="80" height="24" rx="12" fill="#09382e" />
+      <text x="80" y="16" class="tag-text" fill="#4ade80">Tailwind</text>
+      <rect x="160" width="80" height="24" rx="12" fill="#09382e" />
+      <text x="170" y="16" class="tag-text" fill="#4ade80">Storybook</text>
+    </g>
+  </g>
+</svg>
