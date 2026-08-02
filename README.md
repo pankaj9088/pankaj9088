@@ -23,9 +23,9 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&logo=github&style=for-the-badge&color=2563eb" alt="GitHub Followers" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&logo=github&style=for-the-badge&color=db2777" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/pankaj9088?label=Followers&logo=github&style=for-the-badge&color=2563eb" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=pankaj9088&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/pankaj9088?label=Stars&logo=github&style=for-the-badge&color=db2777" alt="GitHub Stars" />
 </div>
 
 <br />
@@ -39,7 +39,7 @@
 
 ```javascript
 const developer = {
-  name: "Your Name",
+  name: "Pankaj Kumar Sah",
   role: "Full Stack Engineer & Open Source Craftsman",
   code: ["TypeScript", "JavaScript", "Python", "Go", "C++"],
   technologies: {
@@ -126,9 +126,9 @@ const developer = {
 
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :---: |
-| **🤖 AI Assistant Hub** | Intelligent autonomous agent workspace with multi-modal tools | `TypeScript` `Next.js` `OpenAI` | [🔗 Demo](https://github.com/YOUR_USERNAME) |
-| **🚀 Cloud Microservices** | Ultra-fast event-driven streaming microservices template | `Go` `Docker` `Redis` | [🔗 Demo](https://github.com/YOUR_USERNAME) |
-| **🎨 Modern Design System** | Accessible React component library with light/dark themes | `React` `Tailwind` `Storybook` | [🔗 Demo](https://github.com/YOUR_USERNAME) |
+| **🤖 AI Assistant Hub** | Intelligent autonomous agent workspace with multi-modal tools | `TypeScript` `Next.js` `OpenAI` | [🔗 Demo](https://github.com/pankaj9088) |
+| **🚀 Cloud Microservices** | Ultra-fast event-driven streaming microservices template | `Go` `Docker` `Redis` | [🔗 Demo](https://github.com/pankaj9088) |
+| **🎨 Modern Design System** | Accessible React component library with light/dark themes | `React` `Tailwind` `Storybook` | [🔗 Demo](https://github.com/pankaj9088) |
 
 </div>
 
@@ -143,15 +143,15 @@ const developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
   </picture>
 </div>
 
@@ -159,9 +159,9 @@ const developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pankaj9088&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pankaj9088&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=pankaj9088&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
   </picture>
 </div>
 
@@ -176,9 +176,9 @@ const developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -193,10 +193,10 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj9088)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pankaj9088)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pankaj9088)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankaj9088@gmail.com)
 
 </div>
 
