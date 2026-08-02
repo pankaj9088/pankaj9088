@@ -2,11 +2,7 @@
 <!--            GITHUB HERO BANNER              -->
 <!-- ========================================== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-light.png">
-    <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-dark.png" alt="Pankaj Kumar Sah - Software Developer" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/neofetch-banner.png" alt="Pankaj Kumar Sah - Software Developer" width="100%" />
 </div>
 
 <br />
