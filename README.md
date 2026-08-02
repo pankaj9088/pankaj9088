@@ -43,7 +43,7 @@
 
 | 🚀 Role | 🛠 Primary Tech | 🎯 Current Focus | ⚡ Passion |
 | :--- | :--- | :--- | :--- |
-| **Full Stack Engineer** | `TypeScript` `React` `Node.js` `Python` | `Web Apps` & `AI Systems` | `Open Source & Clean Code` |
+| **Software Developer** | `TypeScript` `React` `Node.js` `Python` | `Web Apps` & `AI Systems` | `Open Source & Clean Code` |
 
 </div>
 
