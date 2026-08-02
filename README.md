@@ -2,11 +2,8 @@
 <!--            GITHUB HERO BANNER              -->
 <!-- ========================================== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-banner-light.svg">
-    <img alt="Hero Banner" src="./assets/hero-banner-dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-dark.svg#gh-dark-mode-only" alt="Pankaj Kumar Sah Hero Banner Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/hero-banner-light.svg#gh-light-mode-only" alt="Pankaj Kumar Sah Hero Banner Light" width="100%" />
 </div>
 
 <br />
@@ -15,7 +12,7 @@
 <!--          TYPING BANNER & METRICS           -->
 <!-- ========================================== -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/pankaj9088">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Building+Scalable+Cloud+Architectures;Open+Source+Craftsman+%26+Tech+Enthusiast;Turning+Ideas+Into+High-Performance+Code" alt="Typing SVG" />
   </a>
 </div>
@@ -37,27 +34,22 @@
 <!-- ========================================== -->
 ## 👨‍💻 About Me
 
-```javascript
-const developer = {
-  name: "Pankaj Kumar Sah",
-  role: "Full Stack Engineer & Open Source Craftsman",
-  code: ["TypeScript", "JavaScript", "Python", "Go", "C++"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
-    backend: ["Node.js", "Express", "FastAPI", "GraphQL"],
-    database: ["PostgreSQL", "MongoDB", "Redis"],
-    devops: ["Docker", "Kubernetes", "AWS", "GitHub Actions"]
-  },
-  currentFocus: "Building multi-agent AI systems & modern web applications",
-  askMeAbout: ["Web Development", "Software Architecture", "UI/UX Design", "Open Source"],
-  funFact: "I turn coffee ☕ into clean, maintainable code 💻"
-};
-```
+<br />
+
+<div align="center">
+
+| 🚀 Role | 🛠 Primary Tech | 🎯 Current Focus | ⚡ Passion |
+| :--- | :--- | :--- | :--- |
+| **Full Stack Engineer** | `TypeScript` `React` `Node.js` `Python` | `Web Apps` & `AI Systems` | `Open Source & Clean Code` |
+
+</div>
+
+<br />
 
 - 🔭 **Currently working on:** Next-generation web applications & AI integrations
-- 🌱 **Learning & Exploring:** Rust, Distributed Systems & Advanced LLM Agents
-- 💬 **Ask me about:** React, Node.js, System Architecture, and UI/UX best practices
-- ⚡ **Fun fact:** Passionate about clean code, keyboard shortcuts, and open-source software
+- 🌱 **Learning & Exploring:** Rust, Distributed Systems & Advanced Agent Architectures
+- 💬 **Ask me about:** React, Next.js, Node.js, System Design, and UI/UX best practices
+- ⚡ **Fun fact:** I turn coffee ☕ into clean, maintainable code 💻
 
 <br />
 
@@ -113,22 +105,19 @@ const developer = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-showcase-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects-showcase-light.svg">
-    <img alt="Projects Showcase" src="./assets/projects-showcase-dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-dark.svg#gh-dark-mode-only" alt="Featured Projects Showcase Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/projects-showcase-light.svg#gh-light-mode-only" alt="Featured Projects Showcase Light" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
 
-| Project | Description | Tech Stack | Live Demo |
+| Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **🤖 AI Assistant Hub** | Intelligent autonomous agent workspace with multi-modal tools | `TypeScript` `Next.js` `OpenAI` | [🔗 Demo](https://github.com/pankaj9088) |
-| **🚀 Cloud Microservices** | Ultra-fast event-driven streaming microservices template | `Go` `Docker` `Redis` | [🔗 Demo](https://github.com/pankaj9088) |
-| **🎨 Modern Design System** | Accessible React component library with light/dark themes | `React` `Tailwind` `Storybook` | [🔗 Demo](https://github.com/pankaj9088) |
+| **🤖 AI Assistant Hub** | Intelligent autonomous agent workspace with multi-modal tools | `TypeScript` `Next.js` `OpenAI` | [🔗 View Repo](https://github.com/pankaj9088) |
+| **🚀 Cloud Microservices** | Ultra-fast event-driven streaming microservices template | `Go` `Docker` `Redis` | [🔗 View Repo](https://github.com/pankaj9088) |
+| **🎨 Modern Design System** | Accessible React component library with light/dark themes | `React` `Tailwind` `Storybook` | [🔗 View Repo](https://github.com/pankaj9088) |
 
 </div>
 
@@ -142,27 +131,18 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats Dark" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj9088&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" alt="GitHub Stats Light" height="175" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages Dark" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9088&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages Light" height="175" />
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pankaj9088&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pankaj9088&theme=default&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=pankaj9088&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=pankaj9088&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Streak Dark" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=pankaj9088&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak Light" width="95%" />
 </div>
 
 <br />
@@ -175,11 +155,8 @@ const developer = {
 ## 🐍 Contribution Graph Animation
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake Light" width="100%" />
 </div>
 
 <br />
