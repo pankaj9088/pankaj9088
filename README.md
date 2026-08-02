@@ -2,7 +2,9 @@
 <!--            GITHUB HERO BANNER              -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pankaj9088/pankaj9088/main/assets/neofetch-banner.png" alt="Pankaj Kumar Sah - Software Developer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pankaj%20Kumar%20Sah&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+
 </div>
 
 <br />
